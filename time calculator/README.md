@@ -1,2 +1,2 @@
 # Time Calculator (WIP)
-This project is my second certification project in freeCodeCamp scientific computing with Python curriculum. The code is currently still under development!
+This project is my second certification project in freeCodeCamp scientific computing with Python curriculum. <br><br> The code is currently still in progress...
