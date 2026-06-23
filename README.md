@@ -16,4 +16,4 @@ Inside, you'll find everything from basic text manipulation utilities to classic
 * **[Password Generator](./password%20generator)** — Generates secure, randomized passwords based on custom rules and constraints.
 * **[Text Encryptor](./text%20encryptor)** — Encrypts and decrypts text messages using basic cryptographic shifting.
 * **[Time Calculator](./time%20calculator)** **(WIP)** — Adds a specified duration to a start time, handling AM/PM shifts and days later.
-* **[Verifying Card Number](./verifying%20card%20number)** — Validates the mathematical integrity of card numbers using the Luhn algorithm.
+* **[Card Number Verifier](./card%20number%20verifier)** — Validates the mathematical integrity of card numbers using the Luhn algorithm.
