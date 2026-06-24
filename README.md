@@ -1,10 +1,16 @@
-# Scientific Computing with Python
+# Python Projects
 
-A minimalist collection of Python exercises, mini-projects, and algorithm implementations completed during my learning journey through the freeCodeCamp Scientific Computing with Python curriculum. 
+A collection of everything I've built while learning Python. It's a mix of structured projects from the freeCodeCamp curriculum and some random things I made on my own just for fun and practice.
 
-Inside, you'll find everything from basic text manipulation utilities to classic computer science algorithms.
+---
 
-## Projects
+## Stuff I Made For Fun
+
+* **[Guess the Number](./guess%20the%20number)** — A simple logic game I built to practice generating random numbers and handling user inputs.
+
+---
+
+## freeCodeCamp Projects
 
 * **[Arithmetic Formatter](./arithmetic%20formatter)** — Formats arithmetic problems vertically and side-by-side for better readability.
 * **[Bisection Method](./bisection%20method)** — Approximates the roots of a continuous function using numerical techniques.
